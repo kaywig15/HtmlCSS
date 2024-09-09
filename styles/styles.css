@@ -28,3 +28,10 @@ body{background-color: blanchedalmond;}
   border-radius: 550px 550px 250px 250px;
   
 }  
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  align-items: center;
+}
